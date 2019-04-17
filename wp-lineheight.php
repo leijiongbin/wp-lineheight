@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: LineHeight
-Plugin URI: 
+Plugin URI: https://github.com/leijiongbin/wp-lineheight
 Description: add "line-height: 200%" support to editor.
 Version: 1.0.0
 Author: Ryan
-Author URI: 
+Author URI: https://github.com/leijiongbin
 License: GPL2+
 */
 
